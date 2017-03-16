@@ -2,7 +2,6 @@ from bs4 import BeautifulSoup
 import requests
 import pandas as pd
 import numpy as np
-import time
 
 alph = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm',
         'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
